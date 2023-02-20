@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OtGW, real name Zac Luchette. I would love to connect and collaborate!
 - 👀 I’m interested in community-based projects, communication in development, and much more.
-- 🌱 I’m currently learning Java, Javascript, Typescript, Node.js, React, Redux, etc.
+- 🌱 I’m currently learning Java, Javascript, Typescript, Node.js, React, Vue, etc.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me - luchettezac@gmail.com
 
